@@ -1,4 +1,6 @@
-# LAB-5-Student-registration-system
+## EX NO:5 
+## DATE: 17.04.2024
+# STUDENT REGISTRATION SYSTEM
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
 implement the software in Java.
